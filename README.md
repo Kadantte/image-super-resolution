@@ -8,6 +8,8 @@
 
 The goal of this project is to upscale and improve the quality of low resolution images.
 
+Since the code is no longer actively maintained, it will be archived on 2025-01-03.
+
 This project contains Keras implementations of different Residual Dense Networks for Single Image Super-Resolution (ISR) as well as scripts to train these networks using content and adversarial loss components.  
 
 The implemented networks include:
